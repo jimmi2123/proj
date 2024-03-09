@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710005341 source:c:\users\muhammad\desktop\jimyyyyyyyyyyyyy\micro\hospital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hospital.h"
+
+1710005306 c:\users\muhammad\desktop\jimyyyyyyyyyyyyy\micro\hospital\hospital.h
+
